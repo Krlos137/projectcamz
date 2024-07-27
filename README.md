@@ -23,7 +23,6 @@ Es una monolito/SPA desarrollado con laravel/blade/bootstrap este proyecto emula
 En el frontend:
 
 - Maquetación con bootstrap,css y componentes blade.
-- 
 - Implementación asincrona de ajax con el metodo fetch para enviar los datos capturados en el formulario.
 - Captura de datos del controlador.
 - Contenido dinamico para el control de las validaciones con la información recibida.
@@ -36,7 +35,7 @@ Para iniciar deben abrir la terminal de windows y despues de ubicarse en el dire
 - Al terminar la descarga se renombra el archivo .env.example por .env.
 - Despues deben ejecutar el comando composer dump-autoload verifica las despendencias del composer, las descarga o actualiza.
 - Se ejecuta el comando php artisan key:generate genera una nueva clave para aplicacion.
-- Para corre la aplicación debe estar iniciado los servicios de apache y mysql
+- Para correr la aplicación debe estar iniciado los servicios de apache y mysql
 - Iniciados los servicios apache/mysql deben crear la base datos pprojectamazon.
 - Se ejecuta el comando php artisan migrate de esta manera se crean las tablas en la base de datos anteriormente creada.
 - Para finalizar deben ejecutar el comando php artisan serve para arrancar el servidor de laravel. 
