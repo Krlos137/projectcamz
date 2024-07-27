@@ -32,7 +32,7 @@ En el frontend:
 
 Para iniciar deben abrir la terminal de windows y despues de ubicarse en el directorio donde van a descargar la aplicacion van seguir los siguentes pasos:  
 
-- Primero clonar el repositorio con el comando "git clone https://github.com/Krlos137/projectcamz.git. .".
+- Primero clonar el repositorio con el comando "git clone https://github.com/Krlos137/projectcamz.git .".
 - Al terminar la descarga se renombra el archivo .env.example por .env.
 - Despues deben ejecutar el comando composer dump-autoload verifica las despendencias del composer, las descarga o actualiza.
 - Se ejecuta el comando php artisan key:generate genera una nueva clave para aplicacion.
