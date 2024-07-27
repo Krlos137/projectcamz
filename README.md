@@ -30,7 +30,7 @@ En el frontend:
 
 ## Pasos para descargar y desplegar el proyecto
 
-Para iniciar deben abril la terminal de windows y despues de ubicarse en el directorio donde van a descargar la aplicacion van seguir los siguentes pasos:  
+Para iniciar deben abrir la terminal de windows y despues de ubicarse en el directorio donde van a descargar la aplicacion van seguir los siguentes pasos:  
 
 - Primero clonar el repositorio con el comando "git clone https://github.com/Krlos137/projectcamz.git. .".
 - Al terminar la descarga se renombra el archivo .env.example por .env.
